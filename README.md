@@ -1,5 +1,7 @@
 # 🐼 First Pandas & Jupyter Notebook Demo
 
+-----
+
 ## 📌 Overview
 
 This short project demonstrates basic use of **Pandas** and **Matplotlib** in a Jupyter Notebook. I used a small, simulated dataset representing visitor demographics to perform a few fundamental operations such as:
@@ -11,7 +13,7 @@ This short project demonstrates basic use of **Pandas** and **Matplotlib** in a 
 
 The project is intended as a first step in showcasing my ability to use Python for data exploration and visualization.
 
----
+-----
 
 ## 🧪 Dataset
 
@@ -26,7 +28,7 @@ The dataset contains sample information such as:
 
 **Note:** Data is simulated for educational purposes.
 
----
+-----
 
 ## ⚙️ Tools Used
 
@@ -36,7 +38,7 @@ The dataset contains sample information such as:
 - 📓 Jupyter Notebook  
 - 💻 Git & GitHub
 
----
+-----
 
 ## 📈 Result
 
@@ -47,7 +49,7 @@ This helped me practice:
 - Creating plots with 'matplotlib.pyplot' 
 - Writing well-structured Jupyter Notebooks
 
----
+-----
 
 ## 💡 What I Learned
 
@@ -55,7 +57,7 @@ This helped me practice:
 - Using markdown in Jupyter for clarity  
 - GitHub versioning and public sharing of notebooks  
 
----
+-----
 
 ## 👩‍💻 Author
 
@@ -64,7 +66,7 @@ This helped me practice:
 🔗 [GitHub Portfolio](https://github.com/DesislavaSGeorgieva)  
 🔗 [LinkedIn](https://www.linkedin.com/in/desislava-s-georgieva)
 
----
+-----
 
 ## 📎 Files
 

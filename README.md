@@ -60,7 +60,7 @@ This helped me practice:
 ## 👩‍💻 Author
 
 **Desislava Georgieva**  
-📫 desislava.strahilova.georgieva@gmail.com  
+📫 strahilovaart@gmail.com  
 🔗 [GitHub Portfolio](https://github.com/DesislavaSGeorgieva)  
 🔗 [LinkedIn](https://www.linkedin.com/in/desislava-s-georgieva)
 
